@@ -1,5 +1,10 @@
-## Hello
-```hello```
+## 김효현(HyoHyeon-Kim)
+```
+The most competent person is the one who tries to learn most
+-Johann Wolfgang von Goethe-
+```
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyohyeon08&show_icons=true&theme=radical)
 
 <!--
 **hyohyeon08/hyohyeon08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
