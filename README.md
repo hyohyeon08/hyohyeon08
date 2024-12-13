@@ -13,32 +13,16 @@
 ---
 
 ### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 
 ---
 ## 👋 About Me
+Hello! I'm Kim Hyo-hyeon, studying artificial intelligence and backend at Daedeok Software Meister High School.
 
-안녕하세요! 저는 **대덕소프트웨어마이스터고등학교**에서 **인공지능**을 공부하는 **김효현**입니다.  
-저는 **배우며 성장**하는 것을 중요하게 생각하며, **항상 도전**하는 개발자가 되고자 합니다.
-
-[My blog](https://hyohyeon.tistory.com/)
+I always want to be a developer who **learns and tries**s and doesn't stay in one place, **and grows constantly**.
 
 
-
-
-<!--
-**hyohyeon08/hyohyeon08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
