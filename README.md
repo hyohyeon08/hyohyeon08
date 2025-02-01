@@ -29,9 +29,9 @@
 
 ---
 ### 👋 About Me
-Hello! I'm Kim Hyo-hyeon, studying artificial intelligence and backend at Daedeok Software Meister High School.
+Hello! I'm a student at Daedeok Software Meister High School who is studying **happiness** development.
 
-I always want to be a developer who **learns and tries**s and doesn't stay in one place, **and grows constantly**.
+I always want to be a developer who **learns and tries**s and doesn't stay in one place, but **constantly grows**.
 
     
 
